@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: Storing a history of commands
+- text: Supporting undo/redo operations
+- text: When an object needs to use an existing class with an incompatible interface
+- text: Adding commands to a queue to execute them later
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7765#comment
+status: Solved
+record: -1
